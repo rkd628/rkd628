@@ -1,5 +1,5 @@
 - 👋 Hi, I’m seokil kang
-- 📫 My linked in https://www.linkedin.com/in/kangsseok/
+- 📫 My linked in address is, https://www.linkedin.com/in/kangsseok/
 
 <!---
 rkd628/rkd628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
